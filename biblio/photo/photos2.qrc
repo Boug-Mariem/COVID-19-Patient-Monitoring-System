@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>les interfaces avec images ui/mer800-600.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
